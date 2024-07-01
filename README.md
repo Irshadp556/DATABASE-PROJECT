@@ -1,11 +1,11 @@
-                                                    OVERVIEW OF THIS PROJECT
+                                                        OVERVIEW OF THIS PROJECT
 
 							ADMIN DASHBOARD SECTION
-       ADMIN DASHBOARD:ONLY ADMIN CAN ABLE TO ACCESS THE EMPLOYEE PERSONAL DATA.
+                             ADMIN DASHBOARD:ONLY ADMIN CAN ABLE TO ACCESS THE EMPLOYEE PERSONAL DATA.
 ![DASHBOARD](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/e6e47ee7-3d21-4a61-9379-bc953807cc75)
 
 
-						    DEPARTMENTS SECTION
+						         DEPARTMENTS SECTION
       DEPARTMENTS:Manage and organize departments effortlessly, ensuring efficient allocation and tracking of resources.
 
       ![DEPARTMENTS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/6216c73f-ecc7-4aaf-ab15-ae912f4834c0)
