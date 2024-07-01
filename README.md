@@ -11,10 +11,11 @@
       ![DEPARTMENTS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/6216c73f-ecc7-4aaf-ab15-ae912f4834c0)
 
 						     EMPLOYEE SALARY SECTION
-      EMPLOYEE SALARY:Facilitate precise salary management with features for tracking payments, generating reports, and ensuring timely disbursements, enhancing financial transparency and compliance.
+      EMPLOYEE SALARY:Facilitate precise salary management with features for tracking payments, generating reports, and ensuring timely disbursements, enhancing financial 
+      transparency and compliance.
 
-      ![SALARY-DETAILS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/1a3c9af2-d74b-4222-bda9-d993ed06ec5c)
-
+[      ![SALARY-DETAILS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/1a3c9af2-d74b-4222-bda9-d993ed06ec5c)
+](https://github.com/Irshadp556/DATABASE-PROJECT/issues/2#issue-2384519441)
 
       
 
