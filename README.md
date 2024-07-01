@@ -6,11 +6,11 @@
 
 
 						         DEPARTMENTS SECTION
-      DEPARTMENTS:Manage and organize departments effortlessly, ensuring efficient allocation and tracking of resources.
+                      DEPARTMENTS:Manage and organize departments effortlessly, ensuring efficient allocation and tracking of resources.
 
-      ![DEPARTMENTS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/6216c73f-ecc7-4aaf-ab15-ae912f4834c0)
-
-						     EMPLOYEE SALARY SECTION
+[      ![DEPARTMENTS](https://github.com/Irshadp556/DATABASE-PROJECT/assets/151002600/6216c73f-ecc7-4aaf-ab15-ae912f4834c0)
+](https://github.com/Irshadp556/DATABASE-PROJECT/issues/3#issue-2384522464)
+						        EMPLOYEE SALARY SECTION
       EMPLOYEE SALARY:Facilitate precise salary management with features for tracking payments, generating reports, and ensuring timely disbursements, enhancing financial 
       transparency and compliance.
 
